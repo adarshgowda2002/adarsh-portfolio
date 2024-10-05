@@ -1,4 +1,4 @@
-# portfolio.alfiyaa
+
 
 ## Abstract
 
@@ -17,6 +17,6 @@ This project involves building a responsive personal portfolio website that effe
 ![ScrollRevealJS](https://img.shields.io/badge/ScrollReveal.JS-%2312100E.svg?style=for-the-badge&logo=ScrollReveal&logoColor=pink)
 ![TypedJS](https://img.shields.io/badge/Typed.JS-%2312100E.svg?style=for-the-badge&logo=Telegraph)
 
-## Contact
 
-For more information, please contact <alfiyasama07@gmail.com>
+
+
