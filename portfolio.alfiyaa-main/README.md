@@ -19,4 +19,5 @@ This project involves building a responsive personal portfolio website that effe
 
 ## Contact
 
-For more information, please contact <alfiyasama07@gmail.com>
+For more information, please contact <adarshgowda618@gmail.com
+
